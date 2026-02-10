@@ -1,0 +1,10 @@
+#EXTM3U size="big"
+#EXTINF:0 type="playlist" tvg-logo="http://3nhhqt4.biz:80/images/white.png", AO VIVO
+#EXTBG:http://3nhhqt4.biz:80/images/canais.jpg
+http://3nhhqt4.biz:80/playlist.php?username=Bardarosana&password=Hozana1234&type=m3u_plus&output=ts&key=live
+#EXTINF:0 type="playlist" tvg-logo="http://3nhhqt4.biz:80/images/white.png", FILMES
+#EXTBG:http://3nhhqt4.biz:80/images/filmes.jpg
+http://3nhhqt4.biz:80/playlist.php?username=Bardarosana&password=Hozana1234&type=m3u_plus&output=ts&key=movie
+#EXTINF:0 type="playlist" tvg-logo="http://3nhhqt4.biz:80/images/white.png", SÉRIES
+#EXTBG:http://3nhhqt4.biz:80/images/seriados.jpg
+http://3nhhqt4.biz:80/ss/playlist.php?username=Bardarosana&password=Hozana1234&type=m3u_plus&output=ts&key=series
